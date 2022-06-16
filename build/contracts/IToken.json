@@ -67,7 +67,7 @@
   "sourceMap": "",
   "deployedSourceMap": "",
   "source": "// SPDX-License-Identifier: MIT\n\npragma solidity ^0.8.1;\n\ninterface IToken {\n  function mint(address to,  uint256 id, uint256 amount, bytes memory data) external;\n  function burn(address to,  uint256 id, uint256 amount, bytes memory data) external;\n}",
-  "sourcePath": "/home/ayushsharma/Desktop/Cross Chain NFts/contracts/Itoken.sol",
+  "sourcePath": "/home/ayush/Crosschain/contracts/Itoken.sol",
   "ast": {
     "absolutePath": "project:/contracts/Itoken.sol",
     "exportedSymbols": {
@@ -380,7 +380,7 @@
   },
   "networks": {},
   "schemaVersion": "3.4.7",
-  "updatedAt": "2022-06-16T09:36:53.949Z",
+  "updatedAt": "2022-06-16T17:30:42.594Z",
   "devdoc": {
     "kind": "dev",
     "methods": {},
